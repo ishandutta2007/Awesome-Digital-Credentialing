@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Credentialing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Credentialing?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Credentialing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Credentialing?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Credentialing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Credentialing?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Credentialing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Digital-Credentialing?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,9 +62,9 @@ Below is a curated comparison table of leading hosted digital credentialing and 
 
 ## ⚡ Open-Source GitHub Repositories
 
-Explore active open-source repositories for building custom Open Badges 3.0 issuers, W3C Verifiable Credentials wallets, DID protocols, and verification engines. Sorted by **GitHub Stars (Descending)**.
+Explore active open-source repositories for building custom Open Badges 3.0 issuers, W3C Verifiable Credentials wallets, DID protocols, and verification engines. Sorted by **GitHub_Stars (Descending)**.
 
-| 📦 Repository & Project | ⭐ GitHub Stars | 📖 Description & Standards Supported |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 📖 Description & Standards Supported |
 | :--- | :--- | :--- |
 | **[moodle/moodle](https://github.com/moodle/moodle)** | <a href="https://github.com/moodle/moodle/stargazers"><img src="https://img.shields.io/github/stars/moodle/moodle?style=social&color=white" alt="Moodle Stars"/></a> | World's leading open-source Learning Management System (LMS) featuring native Open Badges 2.0 & 3.0 issuance capabilities. |
 | **[hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)** | <a href="https://github.com/hyperledger/aries-cloudagent-python/stargazers"><img src="https://img.shields.io/github/stars/hyperledger/aries-cloudagent-python?style=social&color=white" alt="Hyperledger Aries Stars"/></a> | Foundation framework for trust agent issuance, verification, and SSI key management for W3C Verifiable Credentials. |
